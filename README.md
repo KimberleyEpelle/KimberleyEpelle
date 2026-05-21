@@ -2,7 +2,7 @@
 
 🎓 Master's student in **Cybersecurity** at Université Libre de Bruxelles under the **Erasmus CYBERUS Programme**.  
 🔍 Interested in **defensive security, GRC, and AI applications in cybersecurity**.  
-🌍 Currently seeking a **5–6 month cybersecurity internship (Feb–July 2026)** linked to my master's thesis.
+
 
 ---
 
